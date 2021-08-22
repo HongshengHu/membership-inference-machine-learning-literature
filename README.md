@@ -30,7 +30,8 @@ If you feel this repo is helpful, please cite the survey above.
 | 2021 | **Label-only membership inference attacks** | Black-box | Classification Models | ICML | [Link](http://proceedings.mlr.press/v139/choquette-choo21a.html) | [Link](https://github.com/cchoquette/membership-inference) |
 | 2021 | **On the Privacy Risks of Model Explanations** | Black-box | Classification Models | AIES | [Link](https://dl.acm.org/doi/abs/10.1145/3461702.3462533?casa_token=N1y7W8SoFxQAAAAA:FDsVwyOBIS98rwYWsUpE2dlcmDaJXiKJnJOV1aAkiy1iE4K7Xn8cO184o5hAfQctNbxEpX2WM6XIwA) | |
 | 2021 | **Systematic evaluation of privacy risks of machine learning models** | White-box; Black-box | Classification Models | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/song) | [Link](https://github.com/inspire-group/membership-inference-evaluation)|
-
+| 2021 | **Practical blind membership inference attack via differential comparisons** | Black-box | Classification | [Link](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-2_24293_paper.pdf) | [Link](https://github.com/hyhmia/BlindMI) |
+| 2021 | **On the (In) Feasibility of Attribute Inference Attacks on Machine Learning Models** | White-box; Black-box | Classification | EuroS&P | [Link](https://arxiv.org/abs/2103.07101) | |
 
  
 
@@ -47,6 +48,8 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **Segmentations-leak: Membership inference attacks and defenses in semantic image segmentation** | Black-box | Image Segmentation Models | [Link](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_31) | [Link](https://github.com/SSAW14/segmentation_membership_inference)|
 | 2020 | **Performing co-membership attacks against deep generative models** | White-box | Generative Models | [Link](https://ieeexplore.ieee.org/abstract/document/8970995?casa_token=_QVk9Y51OCYAAAAA:rZ2t3JfMxXDs-CvoR-Uvh7a8oLGHDRUXruJBWjVA0_qD7B5piJBBhuiwaVEAnFWHQspmTxrFwA) | |
 | 2020 | **On the privacy risks of algorithmic fairness** | Black-box | Classification Models | [Link](https://arxiv.org/abs/2011.03731) | |
+| 2020 | **A Comprehensive Analysis of Information Leakage in Deep Transfer Learning** | Black-box | Classification Models | [Link](https://arxiv.org/abs/2009.01989) | |
+| 2020 | **Gan enhanced membership inference: A passive local attack in federated learning** | White-box | Classification Models | [Link](https://ieeexplore.ieee.org/abstract/document/9148790?casa_token=TwA2PQfrAooAAAAA:TKJlyEVcg4h_Dcq29OLJz_HU29YUFwmtzAnhFCABIv7gpNEvQBbzIlYjjiH37zjILdNO5SoqqA) | |
 
 
 
@@ -65,8 +68,9 @@ If you feel this repo is helpful, please cite the survey above.
 | 2019 | **Monte Carlo and Reconstruction Membership Inference Attacks against Generative Models.** | White-box; Black-box | Generative Models | PoPETs | [Link](https://petsymposium.org/2019/files/papers/issue4/popets-2019-0067.pdf) | [Link](https://github.com/SAP-samples/security-research-membership-inference-against-generative-networks) |
 | 2019 | **Disparate Vulnerability: on the Unfairness of Privacy Attacks Against Machine Learning** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1906.00389) | |
 | 2019 | **Demystifying the membership inference attack** | Black-box | Classification Models | CMI | [Link](https://ieeexplore.ieee.org/abstract/document/8962136) | |
+| 2019 | **Differential Privacy Defenses and Sampling Attacks for Membership Inference** | Black-box | Classification Models | NeurIPS Workshop | [Link](https://arxiv.org/abs/2009.00395) | |
 
-
+ 
 ### Attack papers 2018
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
