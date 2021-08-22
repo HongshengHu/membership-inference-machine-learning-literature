@@ -40,6 +40,12 @@ If you feel this repo is helpful, please cite the survey above.
 | 2021 | **Membership Inference Attack Susceptibility of Clinical Language Models** | White-box; Black-box | Clinical Language Models | Arxiv | [Link](https://arxiv.org/abs/2104.08305) | |
 | 2021 | **Killing four birds with one Gaussian process: the relation between different test-time attacks** | Black-box | Classification Models | ICPR | [Link](https://ieeexplore.ieee.org/abstract/document/9413290?casa_token=RxUKWNuCdsAAAAAA:eg4blFMRYcf9sWqjagDPFqunYNKjN1cwASboegqbvOJyC8ERxy8WOAH0MNvCA5IhAJfJUGnS8g) | |
 | 2021 | **Evaluating the Vulnerability of End-to-End Automatic Speech Recognition Models To Membership Inference Attacks** | Black-box | Speech Recognition Models | Interspeech | [Link](https://assets.amazon.science/48/f3/f8d1b62c4bf8bd63cf7a069eff24/evaluating-the-vulnerability-of-end-to-end-automation-speech-recognition-models-to-membership-inference-attacks.pdf) | |
+| 2021 | **Membership Inference Attacks on Knowledge Graphs** | Black-box | Knowledge Graph Embedding Models | Arxiv | [Link](https://arxiv.org/abs/2104.08273) | |
+| 2021 | **Membership Leakage in Label-Only Exposures** | Black-box | Classification Models | CCS | [Link](https://arxiv.org/abs/2007.15528) | |
+| 2021 | **Membership inference attack on graph neural networks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2101.06570) | |
+| 2021 | **Membership Inference Attacks on Deep Regression Models for Neuroimaging** | Black-box | Regression Models | MIDL | [Link](https://arxiv.org/abs/2105.02866) | |
+| 2021 | **Membership Inference Attacks on Lottery Ticket Networks** | Black-box | Classification Models | ICML Workshop | [Link](https://openreview.net/forum?id=4lyXal2ZWB3) | |
+| 2021 | **Membership Inference on Word Embedding and Beyond** | Black-box | Word Embedding Models | Arxiv | [Link](https://arxiv.org/abs/2106.11384) | | 
 
  
 ### Attack papers 2020
@@ -63,7 +69,8 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **A Pragmatic Approach to Membership Inferences on Machine Learning Models** | Black-box | Classification Models | EuroS&P | [Link](https://ieeexplore.ieee.org/abstract/document/9230385?casa_token=rReHm3AMDfwAAAAA:tbLfZUjLhEO368PbybwT6RVNgzAwFD9t0_Xhy9KnrZ9eX9dxJq9IunO6GH6Wm7fk7OPHfHF0AQ) | |
 | 2020 | **Quantifying Membership Inference Vulnerability via Generalization Gap and Other Model Metrics** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2009.05669) | 
 | 2020 | **Investigating the Impact of Pre-trained Word Embeddings on Memorization in Neural Networks** | Black-box | Word Embedding Models | TSD | [Link](https://link.springer.com/chapter/10.1007/978-3-030-58323-1_30) | |
-| 2020 | **Beyond Model-Level Membership Privacy Leakage: an Adversarial Approach in Federated Learning** | White-box | Classification | ICCCN | [Link](https://ieeexplore.ieee.org/abstract/document/9209744?casa_token=Zd05FWW-sLQAAAAA:wP4jc9aCILSpCREa3E4Zo8zCuWetxaZrW78Yi2Q8ZI3Ztr9rer70G3bFa_sNeuHo7O8YyZ4nxQ) | |
+| 2020 | **Beyond Model-Level Membership Privacy Leakage: an Adversarial Approach in Federated Learning** | White-box | Classification Models | ICCCN | [Link](https://ieeexplore.ieee.org/abstract/document/9209744?casa_token=Zd05FWW-sLQAAAAA:wP4jc9aCILSpCREa3E4Zo8zCuWetxaZrW78Yi2Q8ZI3Ztr9rer70G3bFa_sNeuHo7O8YyZ4nxQ) | |
+| 2020 | **Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT** | White-box | Classification Models | IEEE Trans. Industr. Inform. | [Link](https://ieeexplore.ieee.org/document/9302683?denied=) | |
 
 
 
