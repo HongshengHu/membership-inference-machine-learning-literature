@@ -30,10 +30,12 @@ If you feel this repo is helpful, please cite the survey above.
 | 2021 | **Label-only membership inference attacks** | Black-box | Classification Models | ICML | [Link](http://proceedings.mlr.press/v139/choquette-choo21a.html) | [Link](https://github.com/cchoquette/membership-inference) |
 | 2021 | **On the Privacy Risks of Model Explanations** | Black-box | Classification Models | AIES | [Link](https://dl.acm.org/doi/abs/10.1145/3461702.3462533?casa_token=N1y7W8SoFxQAAAAA:FDsVwyOBIS98rwYWsUpE2dlcmDaJXiKJnJOV1aAkiy1iE4K7Xn8cO184o5hAfQctNbxEpX2WM6XIwA) | |
 | 2021 | **Systematic evaluation of privacy risks of machine learning models** | White-box; Black-box | Classification Models | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/song) | [Link](https://github.com/inspire-group/membership-inference-evaluation)|
-| 2021 | **Practical blind membership inference attack via differential comparisons** | Black-box | Classification | NDSS |[Link](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-2_24293_paper.pdf) | [Link](https://github.com/hyhmia/BlindMI) |
-| 2021 | **On the (In) Feasibility of Attribute Inference Attacks on Machine Learning Models** | White-box; Black-box | Classification | EuroS&P | [Link](https://arxiv.org/abs/2103.07101) | |
-
- 
+| 2021 | **Practical blind membership inference attack via differential comparisons** | Black-box | Classification Models | NDSS |[Link](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-2_24293_paper.pdf) | [Link](https://github.com/hyhmia/BlindMI) |
+| 2021 | **On the (In) Feasibility of Attribute Inference Attacks on Machine Learning Models** | White-box; Black-box | Classification Models | EuroS&P | [Link](https://arxiv.org/abs/2103.07101) | |
+| 2021 | **How Does Data Augmentation Affect Privacy in Machine Learning?** | Black-box | Classification Models | AAAI | [Link](https://www.aaai.org/AAAI21Papers/AAAI-353.YuD.pdf) | [Link](https://github.com/dayu11/MI_with_DA)|
+| 2021 | **Node-Level Membership Inference Attacks Against Graph Neural Networks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2102.05429) | |
+| 2021 | **The Audio Auditor: User-Level Membership Inference in Internet of Things Voice Services** | Black-box | Automatic Speech Recognition Model | PoPETs | [Link](https://researchonline.jcu.edu.au/64660/) | |
+| 2021 | **Reconstruction-Based Membership Inference Attacks are Easier on Difficult Problems** | Black-box | Image Segmentation Models | ICCV | [Link](https://arxiv.org/abs/2102.07762) | [Link](https://github.com/avitalsh/reconst_based_MIA)|
 
 ### Attack papers 2020
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
@@ -52,6 +54,8 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **A Comprehensive Analysis of Information Leakage in Deep Transfer Learning** | Black-box | Classification Models | Arxiv| [Link](https://arxiv.org/abs/2009.01989) | |
 | 2020 | **Gan enhanced membership inference: A passive local attack in federated learning** | White-box | Classification Models | ICC |[Link](https://ieeexplore.ieee.org/abstract/document/9148790?casa_token=TwA2PQfrAooAAAAA:TKJlyEVcg4h_Dcq29OLJz_HU29YUFwmtzAnhFCABIv7gpNEvQBbzIlYjjiH37zjILdNO5SoqqA) | |
 | 2020 | **Privacy analysis of deep learning in the wild: Membership inference attacks against transfer learning** | Black-box | Classification Models | Arxiv| [Link](https://arxiv.org/abs/2009.04872) | |
+| 2020 | **Data and model dependencies of membership inference attack** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2002.06856) | |
+| 2020 | **A Pragmatic Approach to Membership Inferences on Machine Learning Models** | Black-box | Classification Models | EuroS&P | [Link](https://ieeexplore.ieee.org/abstract/document/9230385?casa_token=rReHm3AMDfwAAAAA:tbLfZUjLhEO368PbybwT6RVNgzAwFD9t0_Xhy9KnrZ9eX9dxJq9IunO6GH6Wm7fk7OPHfHF0AQ) | |
 
 
 
