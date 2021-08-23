@@ -7,7 +7,7 @@ Paper are sorted by their released dates in descending order.
 
 This repository serves as a complement of the survey below.
 
-[**Membership Inference Attacks on Machine Learning: A Survey**] (https://arxiv.org/abs/2103.07853)
+[**Membership Inference Attacks on Machine Learning: A Survey**] (https://arxiv.org/abs/2103.07853) **(More than 100 papers reviewed).**
 
 ````bibtex
 @article{hu2021membership,
