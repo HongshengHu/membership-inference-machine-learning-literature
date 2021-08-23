@@ -82,7 +82,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 
 
-### Attack papers 2019 [[Back to Top](#Membership Inference Attacks and Defenses on Machine Learning Models Literature)]
+### Attack Papers 2019 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2019 | **Exploiting unintended feature leakage in collaborative learning**| White-box | Classification Models | S&P | [Link](https://ieeexplore.ieee.org/abstract/document/8835269?casa_token=eYvm-5MHJ5EAAAAA:jJfXg2OLofzNw4ZZgRxuoMcEu6flf1epeMeRKZkNln9W99yar_N2WFawsaohM2XRicRA0vnujw) | [Link](https://github.com/csong27/property-inference-collaborative-ml)|
@@ -102,20 +102,20 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 
  
-### Attack papers 2018 [[Back to Top](#Membership Inference Attacks and Defenses on Machine Learning Models Literature)]
+### Attack Papers 2018 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2018 | **Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting** | Black-box | Classification Models | CSF | [Link](https://ieeexplore.ieee.org/abstract/document/8429311?casa_token=NQu6-mEb9JMAAAAA:LTU3BPSYc8ALHF89ifdWs1zl__ABgBzIr44xFoN2t8HwjTb5vm20S00VeH9JSmaBU-miBt5Ucg) | [Link](https://github.com/samuel-yeom/ml-privacy-csf18) |
 | 2018 | **Understanding membership inferences on well-generalized learning models** | Black-box | Classification Models | Arxiv | [link](https://arxiv.org/abs/1802.04889) | |
 
-### Attack papers 2017 [[Back to Top](#Membership Inference Attacks and Defenses on Machine Learning Models Literature)]
+### Attack Papers 2017 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2017  | **Membership inference attacks against machine learning models** | Black-box | Classification Models | S&P | [link](https://ieeexplore.ieee.org/abstract/document/7958568?casa_token=YOmVjvUemFUAAAAA:gGeuARxnjASvh9gnPkijkLD7d7HD1VV1JZkooXtS6tb6LGfKqHgBbyoaI-0-X7kFeP-3bjUR2A) | [Link](https://github.com/csong27/membership-inference) |
 
 
 ## Membership Inference Defense
-### Defense papers 2021 [[Back to Top](#Membership Inference Attacks and Defenses on Machine Learning Models Literature)]
+### Defense Papers 2021 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2021 | **On the privacy-utility trade-off in differentially private hierarchical text classification** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2103.02895) | |
@@ -135,7 +135,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2021 | **Membership Inference Attack with Multi-Grade Service Models in Edge Intelligence** | Black-box | Classification Models | IEEE Network | [Link](https://ieeexplore.ieee.org/abstract/document/9355044?casa_token=kRgvvXyazeEAAAAA:op3d_NR3gAdao2j_6pThCiCJYF8YzuAY3wYYPgKfsTRYNZajUjHiF76hiaeBcaqynjDg723Wgg) | |
 | 2021 | **PAR-GAN: Improving the Generalization of Generative Adversarial Networks Against Membership Inference Attacks** | White-box | Generative Models | KDD | [Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467445?casa_token=nrRQY7saHGMAAAAA:Hm5z6sD94Titemm-rXcuZ9SWCvxlmuYxYIzMzw9szKC5zo2ZKf5X_RJ0mK5qMfetLCdPG6LzaAnOTQ) | [Link](https://github.com/shilab/PAR-GAN)|
    
-### Defense papers 2020 [[Back to Top](#Membership Inference Attacks and Defenses on Machine Learning Models Literature)]
+### Defense Papers 2020 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2020 | **Privacy for All: Demystify Vulnerability Disparity of Differential Privacy against Membership Inference Attack** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2001.08855) | |
@@ -152,7 +152,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2020 | **Privacy-Preserving in Defending against Membership Inference Attacks** | Black-box | Classification Models | PPMLP | [Link](https://dl.acm.org/doi/abs/10.1145/3411501.3419428?casa_token=ndUU_v6d6HwAAAAA:-dFHWyvi34EVE97Dl8J-k-hoTwqTu6Z8I6Lz5IBYpMss_ogfP0OeP8-fLRxQRhfdy6B0AluwZ_XlPw) | |
 
 
-### Defense papers 2019 [[Back to Top](#Membership Inference Attacks and Defenses on Machine Learning Models Literature)]
+### Defense Papers 2019 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2019 | **Evaluating Differentially Private Machine Learning in Practice** | Black-box | Classification Models | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity19/presentation/jayaraman) | [Link](https://github.com/bargavj/EvaluatingDPML) |
@@ -165,7 +165,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 
 
-### Defense papers 2018 [[Back to Top](#Membership Inference Attacks and Defenses on Machine Learning Models Literature)]
+### Defense Papers 2018 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2018 | **Machine Learning with Membership Privacy using Adversarial Regularization** | Black-box | Classification Models | CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3243734.3243855) | [Link](https://github.com/SPIN-UMass/ML-Privacy-Regulization) |
