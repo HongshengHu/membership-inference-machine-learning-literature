@@ -118,7 +118,8 @@ If you feel this repo is helpful, please cite the survey above.
 | 2021 | **Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning** | White-box | Classification Models | S&P | [Link](https://conferences.computer.org/sp/pdfs/sp/2021/893400a866.pdf) | |
 | 2021 | **When Does Data Augmentation Help With Membership Inference Attacks?** | Black-box | Classification Models | ICML | [Link](http://proceedings.mlr.press/v139/kaya21a.html) | [Link](https://github.com/yigitcankaya/augmentation_mia) |
 | 2021 | **Against Membership Inference Attack: Pruning is All You Need** | Black-box | Classification Models | IJCAI | [Link](https://www.ijcai.org/proceedings/2021/0432.pdf) | |
-
+| 2021 | **Membership Privacy for Machine Learning Models Through Knowledge Transfer** | White-box; Black-box | Classification Models | AAAI | [Link](https://www.aaai.org/AAAI21Papers/AAAI-8428.ShejwalkarV.pdf) | |
+| 2021 | **Quantifying Membership Privacy via Information Leakage** | Black-box | Classification Models | IEEE Trans. Inf. Forensics Secur. | [Link](https://ieeexplore.ieee.org/abstract/document/9406982) | |
  
 ### Defense papers 2020
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
