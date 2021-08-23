@@ -172,5 +172,5 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2018 | **Privacy-preserving Machine Learning through Data Obfuscation** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1807.01860) | |
 | 2018 | **Differentially Private Data Generative Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1812.02274) | |
 | 2018 | **Membership Inference Attack against Differentially Private Deep Learning Model** | Black-box | Classification Models | Transactions on Data Privacy | [Link](http://www.tdp.cat/issues16/tdp.a289a17.pdf) | |
-| 2018 | **Differentially Private Releasing via Deep Generative Model** | 
+
 
