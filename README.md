@@ -115,8 +115,11 @@ If you feel this repo is helpful, please cite the survey above.
 | 2021 | **On the privacy-utility trade-off in differentially private hierarchical text classification** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2103.02895) | |
 | 2021 | **MLCapsule: Guarded Offline Deployment of Machine Learning as a Service** | Black-box | Classification Models | CVPR | [Link](https://openaccess.thecvf.com/content/CVPR2021W/TCV/html/Hanzlik_MLCapsule_Guarded_Offline_Deployment_of_Machine_Learning_as_a_Service_CVPRW_2021_paper.html) | |
 | 2021 | **Comparing Local and Central Differential Privacy Using Membership Inference Attacks** | White-box | Classification Models | DBSec | [Link](https://link.springer.com/chapter/10.1007/978-3-030-81242-3_2) | [Link](https://github.com/SAP-samples/security-research-membership-inference-and-differential-privacy)|
+| 2021 | **Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning** | White-box | Classification Models | S&P | [Link](https://conferences.computer.org/sp/pdfs/sp/2021/893400a866.pdf) | |
+| 2021 | **When Does Data Augmentation Help With Membership Inference Attacks?** | Black-box | Classification Models | ICML | [Link](http://proceedings.mlr.press/v139/kaya21a.html) | [Link](https://github.com/yigitcankaya/augmentation_mia) |
+| 2021 | **Against Membership Inference Attack: Pruning is All You Need** | Black-box | Classification Models | IJCAI | [Link](https://www.ijcai.org/proceedings/2021/0432.pdf) | |
 
-
+ 
 ### Defense papers 2020
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
@@ -125,6 +128,12 @@ If you feel this repo is helpful, please cite the survey above.
 | 2020 | **Differential Privacy Protection Against Membership Inference Attack on Machine Learning for Genomic Data** | Black-box | Classification Models | Biocomputing | [Link](https://www.worldscientific.com/doi/abs/10.1142/9789811232701_0003) | |
 | 2020 | **A Secure Federated Learning Framework for 5G Networks** | White-box | Classification Models | IEEE Wireless Communications | [Link](https://ieeexplore.ieee.org/abstract/document/9170265?casa_token=mQO49_zNRZ8AAAAA:WY1Jk5fA6olK16zTOpOkE8pHUkGWMA7wvStZIAUwYTHzZ0hSeFUW_-xY2SwNl7usgf4xFQY7OQ) | |
 | 2020 | **Auditing Differentially Private Machine Learning: How Private is Private SGD?** | Black-box | Classification Models | NeurIPS | [Link](https://proceedings.neurips.cc/paper/2020/hash/fc4ddc15f9f4b4b06ef7844d6bb53abf-Abstract.html) | [Link](https://github.com/jagielski/auditing-dpsgd) |
+| 2020 | **Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2009.03561) | |
+| 2020 | **Defending Model Inversion and Membership Inference Attacks via Prediction Purification** | Black-box | Classification | Arxiv | [Link](https://arxiv.org/abs/2005.03915) | | 
+| 2020 | **Alleviating Privacy Attacks via Causal Learning** | Black-box | Classification Models | ICML | [Link](http://proceedings.mlr.press/v119/tople20a.html) | [Link](https://github.com/microsoft/robustdg) |
+| 2020 | **On the Effectiveness of Regularization Against Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2006.05336) | |
+| 2020 | **Characterizing Membership Privacy in Stochastic Gradient Langevin Dynamics** | Black-box | Classification Models | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/6107) | |
+| 2020 | **Differentially Private Learning Does Not Bound Membership Inference** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2010.12112) | |
 
 ### Defense papers 2019
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
@@ -133,6 +142,9 @@ If you feel this repo is helpful, please cite the survey above.
 | 2019 | **MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples** | Black-box | Classification Models | CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3319535.3363201) | [Link](https://github.com/jjy1994/MemGuard) |
 | 2019 | **Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection** | White-box; Black-box | Generative Models | NeurIPS | [Link](https://papers.nips.cc/paper/2019/hash/47d1e990583c9c67424d369f3414728e-Abstract.html) | |
 | 2019 | **Cronus: Robust and Heterogeneous Collaborative Learning with Black-Box Knowledge Transfer** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1912.11279) | |
+| 2019 | **ML Defense: Against Prediction API Threats in Cloud-Based Machine Learning Service** | Black-box | Classification Models | IWQoS | [Link](https://dl.acm.org/doi/abs/10.1145/3326285.3329042) |  |
+| 2019 | **Effects of Differential Privacy and Data Skewness on Membership Inference Vulnerability** | Black-box | Classification Models | TPS-ISA | [Link](https://ieeexplore.ieee.org/document/9014384) | | 
+
 
 
 ### Defense papers 2018
@@ -141,6 +153,7 @@ If you feel this repo is helpful, please cite the survey above.
 | 2018 | **Machine Learning with Membership Privacy using Adversarial Regularization** | Black-box | Classification Models | CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3243734.3243855) | [Link](https://github.com/SPIN-UMass/ML-Privacy-Regulization) |
 | 2018 | **Privacy-preserving Machine Learning through Data Obfuscation** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1807.01860) | |
 | 2018 | **Differentially Private Data Generative Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1812.02274) | |
+| 2018 | **Membership Inference Attack against Differentially Private Deep Learning Model** | Black-box | Classification Models | Transactions on Data Privacy | [Link](http://www.tdp.cat/issues16/tdp.a289a17.pdf) | |
 
 
 ### Defense papers 2017
