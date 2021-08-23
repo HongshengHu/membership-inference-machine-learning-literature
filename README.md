@@ -56,7 +56,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2021 | **Membership Inference on Word Embedding and Beyond** | Black-box | Word Embedding Models | Arxiv | [Link](https://arxiv.org/abs/2106.11384) | | 
 
  
-### Attack papers 2020 [[Back to Top](#Membership-Inference-Attacks-and-Defense-on-Machine-Learning-Models-Literature)]
+### Attack papers 2020 [[Back to Top](#membership-inference-attacks-and-defense-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2020 | **Quantifying Privacy Leakage in Graph Embedding** | White-box; Black-box | Graph Embedding Models | NeurIPS Workshop |[Link](https://arxiv.org/abs/2010.00906) | [Link](https://github.com/vasishtduddu/GraphLeaks)|
