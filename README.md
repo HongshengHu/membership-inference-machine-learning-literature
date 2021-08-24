@@ -98,7 +98,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2019 | **Differential Privacy Defenses and Sampling Attacks for Membership Inference** | Black-box | Classification Models | NeurIPS Workshop | [Link](https://arxiv.org/abs/2009.00395) | |
 | 2019 | **Privacy Risks of Securing Machine Learning Models against Adversarial Examples** | Black-box | Classification Models | CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3319535.3354211) | [Link](https://github.com/inspire-group/privacy-vs-robustness) |
 | 2019 | **Membership Inference Attacks against Adversarially Robust Deep Learning Models** | Black-box | Classification Models | S&P Workshop | [Link](https://ieeexplore.ieee.org/abstract/document/8844607?casa_token=Afs5maC5j74AAAAA:JQ6Jy-Gq3N4XFZqpX35qGzbjTx5e1p9tkIVoFYc4QDdIpIsvkHl__rsawNYpQ7K5ZvyBORo86A) | |
-| 2019 | **Demystifying Membership Inference Attacks in Machine Learning as a Service** | Black-box | Classification Models | IEEE Trans. Serv. Comput. | [Link](https://ieeexplore.ieee.org/abstract/document/8634878?casa_token=MC0Uw6Ni-HgAAAAA:zJ32LbWViM5adpNr6sh8tNMZI-Or50HI-QawC1hyMTjPiDxDe8kAAbtdBC0saPOz88Y0aqkLNw) | [Link] |
+| 2019 | **Demystifying Membership Inference Attacks in Machine Learning as a Service** | Black-box | Classification Models | IEEE Trans. Serv. Comput. | [Link](https://ieeexplore.ieee.org/abstract/document/8634878?casa_token=MC0Uw6Ni-HgAAAAA:zJ32LbWViM5adpNr6sh8tNMZI-Or50HI-QawC1hyMTjPiDxDe8kAAbtdBC0saPOz88Y0aqkLNw) |  |
 
 
  
