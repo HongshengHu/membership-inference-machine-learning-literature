@@ -135,6 +135,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2021 | **Membership Inference Attack with Multi-Grade Service Models in Edge Intelligence** | Black-box | Classification Models | IEEE Network | [Link](https://ieeexplore.ieee.org/abstract/document/9355044?casa_token=kRgvvXyazeEAAAAA:op3d_NR3gAdao2j_6pThCiCJYF8YzuAY3wYYPgKfsTRYNZajUjHiF76hiaeBcaqynjDg723Wgg) | |
 | 2021 | **PAR-GAN: Improving the Generalization of Generative Adversarial Networks Against Membership Inference Attacks** | White-box | Generative Models | KDD | [Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467445?casa_token=nrRQY7saHGMAAAAA:Hm5z6sD94Titemm-rXcuZ9SWCvxlmuYxYIzMzw9szKC5zo2ZKf5X_RJ0mK5qMfetLCdPG6LzaAnOTQ) | [Link](https://github.com/shilab/PAR-GAN)|
 | 2021 | **Defending Medical Image Diagnostics against Privacy Attacks using Generative Methods: Application to Retinal Diagnostics** | Black-box | Classification Models | MICCAI Workshop | [Link](https://arxiv.org/abs/2103.03078) | |
+| 2021 | **Defending Privacy Against More Knowledgeable Membership Inference Attackers** | White-box; Black-box | Classification Models | KDD | [Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467444) | [Link](https://github.com/yyinfaramita/Crystal) |
    
 ### Defense Papers 2020 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
