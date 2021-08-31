@@ -54,7 +54,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2021 | **Membership Inference Attacks on Deep Regression Models for Neuroimaging** | Black-box | Regression Models | MIDL | [Link](https://arxiv.org/abs/2105.02866) | |
 | 2021 | **Membership Inference Attacks on Lottery Ticket Networks** | Black-box | Classification Models | ICML Workshop | [Link](https://openreview.net/forum?id=4lyXal2ZWB3) | |
 | 2021 | **Membership Inference on Word Embedding and Beyond** | Black-box | Word Embedding Models | Arxiv | [Link](https://arxiv.org/abs/2106.11384) | | 
-
+| 2021 | **EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning** | Black-box | Image Encoder Models | CCS | [Link](https://arxiv.org/abs/2108.11023) | |
  
 ### Attack Papers 2020 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
