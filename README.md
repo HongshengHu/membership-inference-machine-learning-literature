@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2021
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2021 | **Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications** | Black-box | Classification Models | ICDM | [Link](https://arxiv.org/abs/2110.08760) | [Link](https://github.com/TrustworthyGNN/MIA-GNN/) |
 | 2021 | **On The Vulnerability of Recurrent Neural Networks to Membership Inference Attacks**| Black-box | Text Generation Models | Arxiv | [Link](https://arxiv.org/abs/2110.03054) | [Link](https://github.com/yunhaoyang234/Membership-Attack-Privacy-Preserving) |
 | 2021 | **On the Difficulty of Membership Inference Attacks** | White-box | Classification Models | CVPR | [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Rezaei_On_the_Difficulty_of_Membership_Inference_Attacks_CVPR_2021_paper.html) | [Link](https://github.com/shrezaei/MI-Attack) |
 | 2021 | **Quantifying Privacy Leakage in Graph Embedding** | White-box; Black-box | Graph Embedding Models | NeurIPS Workshop |[Link](https://arxiv.org/abs/2010.00906) | [Link](https://github.com/vasishtduddu/GraphLeaks)|
