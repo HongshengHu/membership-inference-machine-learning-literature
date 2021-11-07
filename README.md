@@ -12,7 +12,7 @@ This repository serves as a complement of the survey below.
 ````bibtex
 @article{hu2021membership,
   title={Membership Inference Attacks on Machine Learning: A Survey},
-  author={Hu, Hongsheng and Salcic, Zoran and Dobbie, Gillian and Zhang, Xuyun},
+  author={Hu, Hongsheng and Salcic, Zoran and Sun Lichao and Dobbie, Gillian and Yu, Philip S. and Zhang, Xuyun},
   journal={arXiv preprint arXiv:2103.07853},
   year={2021}
 }
@@ -33,6 +33,8 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2021
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2021 | **Membership Inference Attacks Against Recommender Systems** | Black-box | Recommender Systems | CCS | [Link](https://arxiv.org/abs/2109.08045) | [Link](https://github.com/minxingzhang/MIARS) |
+| 2021 | **Source Inference Attacks in Federated Learning** | Black-box | Classifcation Models | ICDM | [Link](https://arxiv.org/abs/2109.05659) | [Link](https://github.com/HongshengHu/source-inference-FL) |
 | 2021 | **Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications** | Black-box | Classification Models | ICDM | [Link](https://arxiv.org/abs/2110.08760) | [Link](https://github.com/TrustworthyGNN/MIA-GNN/) |
 | 2021 | **On The Vulnerability of Recurrent Neural Networks to Membership Inference Attacks**| Black-box | Text Generation Models | Arxiv | [Link](https://arxiv.org/abs/2110.03054) | [Link](https://github.com/yunhaoyang234/Membership-Attack-Privacy-Preserving) |
 | 2021 | **On the Difficulty of Membership Inference Attacks** | White-box | Classification Models | CVPR | [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Rezaei_On_the_Difficulty_of_Membership_Inference_Attacks_CVPR_2021_paper.html) | [Link](https://github.com/shrezaei/MI-Attack) |
