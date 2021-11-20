@@ -33,6 +33,8 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2021
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2021 | **On the Importance of Difficulty Calibration in Membership Inference Attacks** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2111.08440)| |
+| 2021 | **Membership Inference Attacks against GANs by Leveraging Over-representation Regions** | White-box | Generative Models | CCS |[Link](https://dl.acm.org/doi/abs/10.1145/3460120.3485338) | |
 | 2021 | **Membership Inference Attacks Against Recommender Systems** | Black-box | Recommender Systems | CCS | [Link](https://arxiv.org/abs/2109.08045) | [Link](https://github.com/minxingzhang/MIARS) |
 | 2021 | **Source Inference Attacks in Federated Learning** | Black-box | Classifcation Models | ICDM | [Link](https://arxiv.org/abs/2109.05659) | [Link](https://github.com/HongshengHu/source-inference-FL) |
 | 2021 | **Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications** | Black-box | Classification Models | ICDM | [Link](https://arxiv.org/abs/2110.08760) | [Link](https://github.com/TrustworthyGNN/MIA-GNN/) |
