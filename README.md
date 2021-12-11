@@ -32,7 +32,9 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 ### Attack Papers 2021
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
-|-------|--------|--------|--------|-----------|------------|---------------|
+|-------|--------|--------|--------|-----------|------------|---------------| 
+| 2021 | **Membership Inference Attacks From First Principles** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2112.03570) | |
+| 2021 | **SHAPr: An Efficient and Versatile Membership Privacy Risk Metric for Machine Learning**| Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2112.02230) | |
 | 2021 | **Enhanced Membership Inference Attacks against Machine Learning Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2111.09679) | [Link](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2021 | **Do Not Trust Prediction Scores for Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2111.09076) | [Link](https://github.com/ml-research/Do-Not-Trust-Prediction-Scores-for-Membership-Inference-Attacks) |
 | 2021 | **On the Importance of Difficulty Calibration in Membership Inference Attacks** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2111.08440)| |
