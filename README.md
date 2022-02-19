@@ -26,7 +26,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ## Quick Links
 **Attack papers sorted by year:** |[2022](#attack-papers-2022) |[2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
-**Defense papers sorted by year:** | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
+**Defense papers sorted by year:** | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Membership Inference Attack
 ### Attack Papers 2022
@@ -132,6 +132,11 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 
 ## Membership Inference Defense
+### Defense Papers 2022 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Privacy-preserving Generative Framework Against Membership Inference Attacks** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2202.05469) | |
+
 ### Defense Papers 2021 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
