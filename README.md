@@ -136,6 +136,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Defense Papers 2022 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **MIAShield: Defending Membership Inference Attacks via Preemptive Exclusion of Members** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2203.00915) | |
 | 2022 | **Privacy-preserving Generative Framework Against Membership Inference Attacks** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2202.05469) | |
 
 ### Defense Papers 2021 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
