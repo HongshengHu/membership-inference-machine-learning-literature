@@ -32,6 +32,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **User-Level Membership Inference Attack against Metric Embedding Learning** | Black-box | Metric Embedding Models | Arxiv | [Link](https://arxiv.org/abs/2203.02077) | |
 | 2022 | **Label-Only Membership Inference Attacks and Defenses In Semantic Segmentation Models** | Black-box | Segmentation Models | IEEE Trans Dependable Secure Comput | [Link](https://ieeexplore.ieee.org/abstract/document/9723588/keywords#keywords) | |
 | 2022 | **Membership Inference Attacks and Defenses in Neural Network Pruning** | Black-box | Classification Models | USENIX Security |[Link](https://arxiv.org/abs/2202.03335) | [Link](https://github.com/machine-learning-security-lab/mia_prune)|
 | 2022 | **Parameters or Privacy: A Provable Tradeoff Between Overparameterization and Membership Inference** | Black-box | Regression Models | Arxiv | [Link](https://arxiv.org/abs/2202.01243) | |
