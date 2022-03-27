@@ -32,6 +32,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Leveraging Adversarial Examples to Quantify Membership Information Leakage** | White-box; Black-box | Classification Models | CVPR | [Link](https://arxiv.org/abs/2203.09566) | [Link](https://github.com/ganeshdg95/Leveraging-Adversarial-Examples-to-Quantify-Membership-Information-Leakage) |
 | 2022 | **Quantifying Privacy Risks of Masked Language Models Using Membership Inference Attacks** | Black-box | Masked Language Models | Arxiv | [Link](https://arxiv.org/abs/2203.03929) | |
 | 2022 | **User-Level Membership Inference Attack against Metric Embedding Learning** | Black-box | Metric Embedding Models | Arxiv | [Link](https://arxiv.org/abs/2203.02077) | |
 | 2022 | **Label-Only Membership Inference Attacks and Defenses In Semantic Segmentation Models** | Black-box | Segmentation Models | IEEE Trans Dependable Secure Comput | [Link](https://ieeexplore.ieee.org/abstract/document/9723588/keywords#keywords) | |
