@@ -11,10 +11,11 @@ This repository serves as a complement of the survey below.
 
 ````bibtex
 @article{hu2021membership,
-  title={Membership Inference Attacks on Machine Learning: A Survey},
-  author={Hu, Hongsheng and Salcic, Zoran and Sun Lichao and Dobbie, Gillian and Yu, Philip S. and Zhang, Xuyun},
-  journal={arXiv preprint arXiv:2103.07853},
-  year={2021}
+  title={Membership inference attacks on machine learning: A survey},
+  author={Hu, Hongsheng and Salcic, Zoran and Sun, Lichao and Dobbie, Gillian and Yu, Philip S and Zhang, Xuyun},
+  journal={ACM Computing Surveys (CSUR)},
+  year={2021},
+  publisher={ACM New York, NY}
 }
 ````
 
@@ -32,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Assessing the Impact of Membership Inference Attacks on Classical Machine Learning Algorithms** | Black-box | Classification Models | DRCN | [Link](https://ieeexplore.ieee.org/abstract/document/9758025) | [Link](https://github.com/gonz-mart/Assessing-the-Impact-of-Membership-Inference-Attacks-on-Classical-Machine-Learning-Algorithms) |
 | 2022 | **Optimal Membership Inference Bounds for Adaptive Composition of Sampled Gaussian Mechanisms** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2204.06106) | |
 | 2022 | **Perfectly Accurate Membership Inference by a Dishonest Central Server in Federated Learning** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2203.16463) | [Link](https://github.com/g-pichler/dishonest_mia) |
 | 2022 | **Leveraging Adversarial Examples to Quantify Membership Information Leakage** | White-box; Black-box | Classification Models | CVPR | [Link](https://arxiv.org/abs/2203.09566) | [Link](https://github.com/ganeshdg95/Leveraging-Adversarial-Examples-to-Quantify-Membership-Information-Leakage) |
