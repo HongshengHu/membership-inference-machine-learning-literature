@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **An Efficient Subpopulation-based Membership Inference Attack** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2203.02080) | |
 | 2022 | **Assessing the Impact of Membership Inference Attacks on Classical Machine Learning Algorithms** | Black-box | Classification Models | DRCN | [Link](https://ieeexplore.ieee.org/abstract/document/9758025) | [Link](https://github.com/gonz-mart/Assessing-the-Impact-of-Membership-Inference-Attacks-on-Classical-Machine-Learning-Algorithms) |
 | 2022 | **Optimal Membership Inference Bounds for Adaptive Composition of Sampled Gaussian Mechanisms** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2204.06106) | |
 | 2022 | **Perfectly Accurate Membership Inference by a Dishonest Central Server in Federated Learning** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2203.16463) | [Link](https://github.com/g-pichler/dishonest_mia) |
