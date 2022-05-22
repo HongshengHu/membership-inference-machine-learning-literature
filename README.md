@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **CS-MIA: Membership inference attack based on prediction confidence series in federated learning** | White-box | Classification Models | J. Inf. Secur. Appl | [Link](https://www.sciencedirect.com/science/article/pii/S2214212622000801) | |
 | 2022 | **Evaluating Membership Inference Through Adversarial Robustnes** | White-box | Classfication Models | The Computer Journal | [Link](https://arxiv.org/abs/2205.06986) | [Link](https://github.com/plll4zzx/evaluating-membership-inference-through-adversarial-robustness) |
 | 2022 | **How to Combine Membership-Inference Attacks on Multiple Updated Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2205.06369) | [Link](https://github.com/stanleykywu/model-updates) |
 | 2022 | **An Efficient Subpopulation-based Membership Inference Attack** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2203.02080) | |
