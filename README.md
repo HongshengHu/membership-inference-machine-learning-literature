@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Membership Inference Attacks Against Machine Learning Models via Prediction Sensitivity** | Black-box | Classification Models | IEEE Trans Dependable Secure Comput | [Link](https://ieeexplore.ieee.org/abstract/document/9793586) | [Link](https://github.com/Wangyiiiiii/Aster)| 
 | 2022 | **Subject Membership Inference Attacks in Federated Learning** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2206.03317) | |
 | 2022 | **Membership Feature Disentanglement Network** | White-box | Classification Models | ASIA CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3488932.3497772) | |
 | 2022 | **Understanding Disparate Effects of Membership Inference Attacks and their Countermeasures** | Black-box | Classification Models | ASIA CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3488932.3501279) | |
