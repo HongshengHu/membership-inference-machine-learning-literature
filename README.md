@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Debiasing Learning for Membership Inference Attacks Against Recommender Systems** | Black-box | Recommender System | KDD | [Link](https://arxiv.org/abs/2206.12401) | |
 | 2022 | **Membership Inference via Backdooring** | Black-box | Classification Models | IJCAI | [Link](https://arxiv.org/abs/2206.04823) | [Link](https://github.com/hongshenghu/membership-inference-via-backdooring) |
 | 2022 | **Membership Inference Attacks Against Machine Learning Models via Prediction Sensitivity** | Black-box | Classification Models | IEEE Trans Dependable Secure Comput | [Link](https://ieeexplore.ieee.org/abstract/document/9793586) | [Link](https://github.com/Wangyiiiiii/Aster)| 
 | 2022 | **Subject Membership Inference Attacks in Federated Learning** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2206.03317) | |
