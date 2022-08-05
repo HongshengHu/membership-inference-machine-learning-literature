@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Membership Inference Attacks via Adversarial Examples** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2207.13572) | |
 | 2022 | **Label-Only Membership Inference Attack against Node-Level Graph Neural Networks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2207.13766) | |
 | 2022 | **Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning** | Black-box | Semi-supervised Learning Models | ECCV | [Link](https://arxiv.org/abs/2207.12535) | [Link](https://github.com/xinleihe/Semi-Leak) |
 | 2022 | **Debiasing Learning for Membership Inference Attacks Against Recommender Systems** | Black-box | Recommender System | KDD | [Link](https://arxiv.org/abs/2206.12401) | |
