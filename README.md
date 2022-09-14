@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Auditing Membership Leakages of Multi-Exit Networks** | White-box; Black-box | Classification Models | CCS | [Link](https://arxiv.org/abs/2208.11180) | [Link](https://github.com/zhenglisec/Multi-Exit-Privacy) |
 | 2022 | **Label-Only Membership Inference Attack against Node-Level Graph Neural Networks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2207.13766) | |
 | 2022 | **Membership-Doctor: Comprehensive Assessment of Membership Inference Against Machine Learning Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2208.10445) | |
 | 2022 | **On the Privacy Effect of Data Enhancement via the Lens of Memorization** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2208.08270) | |
