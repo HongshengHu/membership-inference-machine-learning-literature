@@ -33,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **M^4I: Multi-modal Models Membership Inference** | Black-box | Multi-modal Models | NeurIPS | [Link](https://arxiv.org/abs/2209.06997) | [Link](https://github.com/multimodalmi/multimodal-membership-inference) |
 | 2022 | **Membership Inference Attacks by Exploiting Loss Trajectory** | Black-box | Classification Models | CCS | [Link](https://arxiv.org/abs/2208.14933) | [Link](https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory) |
 | 2022 | **Auditing Membership Leakages of Multi-Exit Networks** | White-box; Black-box | Classification Models | CCS | [Link](https://arxiv.org/abs/2208.11180) | [Link](https://github.com/zhenglisec/Multi-Exit-Privacy) |
 | 2022 | **Label-Only Membership Inference Attack against Node-Level Graph Neural Networks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2207.13766) | |
