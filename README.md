@@ -10,11 +10,14 @@ This repository serves as a complement of the survey below.
 [**Membership Inference Attacks on Machine Learning: A Survey**](https://arxiv.org/abs/2103.07853) **(More than 100 papers reviewed).**
 
 ````bibtex
-@article{hu2021membership,
+@article{hu2022membership,
   title={Membership inference attacks on machine learning: A survey},
   author={Hu, Hongsheng and Salcic, Zoran and Sun, Lichao and Dobbie, Gillian and Yu, Philip S and Zhang, Xuyun},
   journal={ACM Computing Surveys (CSUR)},
-  year={2021},
+  volume={54},
+  number={11s},
+  pages={1--37},
+  year={2022},
   publisher={ACM New York, NY}
 }
 ````
