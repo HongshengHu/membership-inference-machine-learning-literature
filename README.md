@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Membership Inference Attacks Against Semantic Segmentation Models** | Black-box | Semantic Segmentation Models | Arxiv | [Link](https://arxiv.org/abs/2212.01082) | [Link](https://github.com/ctom2/seg-mia) |
 | 2022 | **Similarity Distribution based Membership Inference Attack on Person Re-identification** | Black-box | Person Re-identification | AAAI | [Link](https://arxiv.org/abs/2211.15918) | |
 | 2022 | **Amplifying Membership Exposure via Data Poisoning** | Black-box | Classification Models | NeurIPS | [Link](https://arxiv.org/abs/2211.00463) | [Link](https://github.com/yfchen1994/poisoning_membership) |
 | 2022 | **Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2210.10750) | [Link](https://github.com/YuxinWenRick/canary-in-a-coalmine) |
