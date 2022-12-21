@@ -173,6 +173,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Defense Papers 2022 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **Defense against membership inference attack in graph neural networks through graph perturbation** | White-box | Graph Embedding Models | Int. J. Inf. Secur. | [Link](https://link.springer.com/article/10.1007/s10207-022-00646-y) | |
 | 2022 | **Provable Membership Inference Privacy** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2211.06582) | |
 | 2022 | **Repeated Knowledge Distillation with Confidence Masking to Mitigate Membership Inference Attacks** | White-box; Black-box | Classification Models | AISec | [Link](https://dl.acm.org/doi/10.1145/3560830.3563721) | |
 | 2022 | **NeuGuard: Lightweight Neuron-Guided Defense against Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2206.05565) | |
