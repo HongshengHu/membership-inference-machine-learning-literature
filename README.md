@@ -33,6 +33,11 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 **Defense papers sorted by year:** | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Membership Inference Attack
+### Attack Papers 2023
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Accuracy-Privacy Trade-off in Deep Ensemble: A Membership Inference Perspective** | Black-box | Classification Models | S&P | [Link](https://arxiv.org/abs/2105.05381) | [Link](https://github.com/shrezaei/MI-on-EL) |
+
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
@@ -199,7 +204,6 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2021 | **Quantifying Membership Privacy via Information Leakage** | Black-box | Classification Models | IEEE Trans. Inf. Forensics Secur. | [Link](https://ieeexplore.ieee.org/abstract/document/9406982) | |
 | 2021 | **Membership Inference Attacks and Defenses in Classification Models** | Black-box | Classification Models | CODASPY | [Link](https://dl.acm.org/doi/abs/10.1145/3422337.3447836?casa_token=OgVGtSGexk4AAAAA:OL1PF_yI4hvGMZRuAg4AmHdGsy8kNbvNDMDCK4Bf-42sGR4PJ0YYdBKwMKaAmUbplZecpyivNS0OmA) | |
 | 2021 | **Digestive Neural Networks: A Novel Defense Strategy Against Inference Attacks in Federated Learning** | White-box | Classification Models |  Computers & Security | [Link](https://www.sciencedirect.com/science/article/pii/S0167404821002029) | |
-| 2021 | **Accuracy-Privacy Trade-off in Deep Ensemble: A Membership Inference Perspective** | Black-box | Classification Models | ICLR | [Link](https://arxiv.org/abs/2105.05381) | [Link](https://github.com/shrezaei/MI-on-EL) |
 | 2021 | **Resisting Membership Inference Attacks through Knowledge Distillation** | Black-box | Classification Models | Neurocomputing | [Link](https://www.sciencedirect.com/science/article/pii/S0925231221006329?casa_token=c1IzeuYRtpUAAAAA:0wsZqqvYC_MDDxxmJiX6ukGXUz1ZWeXrrs3ZM7HNS22peJvUcI-ED4PuN8RzYTJyMzsTIH-dIvY) | |
 | 2021 | **privGAN: Protecting GANs from membership inference attacks at low cost to utility** | White-box | Generative Models | PoPETs| [Link](https://petsymposium.org/2021/files/papers/issue3/popets-2021-0041.pdf) | |
 | 2021 | **Generating Private Data Surrogates for Vision Related Tasks** | White-box | Generative Models | ICPR | [Link](https://ieeexplore.ieee.org/abstract/document/9413067?casa_token=-TsmURst7cIAAAAA:7JmyRDPMEqGQumYXCRMMDnqsfw_bQrIbl8Om7GvjU07Py58rR7exbhl6kX3ChllJaLp5hrMXXg) | |
