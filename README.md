@@ -37,6 +37,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **Accuracy-Privacy Trade-off in Deep Ensemble: A Membership Inference Perspective** | Black-box | Classification Models | S&P | [Link](https://arxiv.org/abs/2105.05381) | [Link](https://github.com/shrezaei/MI-on-EL) |
+| 2023 | **Membership Inference of Diffusion Models** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2301.09956) | |
 
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
