@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Are Diffusion Models Vulnerable to Membership Inference Attacks?** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2302.01316) | |
 | 2023 | **Accuracy-Privacy Trade-off in Deep Ensemble: A Membership Inference Perspective** | Black-box | Classification Models | S&P | [Link](https://arxiv.org/abs/2105.05381) | [Link](https://github.com/shrezaei/MI-on-EL) |
 | 2023 | **Membership Inference of Diffusion Models** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2301.09956) | |
 | 2023 | **MiDA: Membership inference attacks against domain adaptation** | Black-box | Classification Models | ISA Transactions | [Link](https://www.sciencedirect.com/science/article/pii/S0019057823000228) | | 
