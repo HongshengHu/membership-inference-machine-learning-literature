@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Membership Inference Attacks against Diffusion Models** | White-box; Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2302.03262) | |
 | 2023 | **Interaction-level Membership Inference Attack Against Federated Recommender Systems** | White-box | Recommender System | WWW | [Link](https://arxiv.org/abs/2301.10964) | |
 | 2023 | **Are Diffusion Models Vulnerable to Membership Inference Attacks?** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2302.01316) | |
 | 2023 | **Accuracy-Privacy Trade-off in Deep Ensemble: A Membership Inference Perspective** | Black-box | Classification Models | S&P | [Link](https://arxiv.org/abs/2105.05381) | [Link](https://github.com/shrezaei/MI-on-EL) |
