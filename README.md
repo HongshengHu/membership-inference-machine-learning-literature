@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **A Blessing of Dimensionality in Membership Inference through Regularization** | Black-box | Classification Models | AISTATS | [Link](https://proceedings.mlr.press/v206/tan23b.html) | [Link](https://github.com/tanjasper/benign_overparam_MI) |
 | 2023 | **Active Membership Inference Attack under Local Differential Privacy in Federated Learning** | White-box | Classification Models | AISTATS | [Link](https://arxiv.org/abs/2302.12685) | [Link](https://github.com/trucndt/ami) | 
 | 2023 | **Membership Inference Attacks against Synthetic Data through Overfitting Detection** | Black-box | Generative models | AISTATS | [Link](https://arxiv.org/abs/2302.12580) | [Link](https://github.com/vanderschaarlab/DOMIAS) |
 | 2023 | **Students Parrot Their Teachers: Membership Inference on Model Distillation** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2303.03446) | |
