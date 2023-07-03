@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Re-aligning Shadow Models can Improve White-box Membership Inference Attacks** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.05093) | |
 | 2023 | **Membership inference attack with relative decision boundary distance** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.04109) | |
 | 2023 | **Membership Inference Attacks against Language Models via Neighbourhood Comparison** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2305.18462) | |
 | 2023 | **How to Combine Membership-Inference Attacks on Multiple Updated Machine Learning Models** | Black-box | Classification Models | PoPETs | [Link](https://petsymposium.org/popets/2023/popets-2023-0078.pdf) | [Link](https://github.com/stanleykywu/model-updates) |
