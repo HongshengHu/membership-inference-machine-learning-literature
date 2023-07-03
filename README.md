@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Membership Inference Attacks against Language Models via Neighbourhood Comparison** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2305.18462) | |
 | 2023 | **How to Combine Membership-Inference Attacks on Multiple Updated Machine Learning Models** | Black-box | Classification Models | PoPETs | [Link](https://petsymposium.org/popets/2023/popets-2023-0078.pdf) | [Link](https://github.com/stanleykywu/model-updates) |
 | 2023 | **AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning** | White-box | Classification Models | WWW | [Link](https://dl.acm.org/doi/abs/10.1145/3543507.3583542) | [Link](https://github.com/PrivSecML/AgrEvader) |
 | 2023 | **Membership Inference Attacks Against Sequential Recommender Systems** | Black-box | Recommender System | WWW | [Link](https://dl.acm.org/doi/abs/10.1145/3543507.3583447) | |
