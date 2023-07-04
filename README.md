@@ -3,9 +3,9 @@
 
 A curated list of membership inference attacks and defenses papers on machine learning models.
 
-Paper are sorted by their released dates in descending order.
+Papers are sorted by their released dates in descending order.
 
-This repository serves as a complement of the survey below.
+This repository serves as a complement to the survey below.
 
 [**Membership Inference Attacks on Machine Learning: A Survey**](https://arxiv.org/abs/2103.07853) **(More than 100 papers reviewed).**
 
@@ -22,7 +22,7 @@ This repository serves as a complement of the survey below.
 }
 ````
 
-If you feel this repository is helpful, please help to cite the survey above.
+If you feel this repository is helpful, please cite the survey above.
 
 ## How to Search?
 Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers.
@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Fortifying Federated Learning against Membership Inference Attacks via Client-level Input Perturbation** | White-box | Classification Models | Arxiv | [Link](https://yinzhicao.org/CIP/DSN-23-CIP.pdf) | | 
 | 2023 | **Gaussian Membership Inference Privacy** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.07273) | |
 | 2023 | **TMI! Finetuned Models Leak Private Information from their Pretraining Data** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.01181) | |
 | 2023 | **SoK: Membership Inference is Harder Than Previously Thought** | Black-box | Classification Models | Arxiv | [Link](https://www.petsymposium.org/2023/files/papers/issue3/popets-2023-0082.pdf) | [Link](https://bitbucket.org/srecgrp/sok-membership-inference-public/src/master/) |
