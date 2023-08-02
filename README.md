@@ -198,6 +198,11 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 
 ## Membership Inference Defense
+### Defense Papers 2023 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks** | White-box; Black-box | Classification Models | Asia CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3579856.3590334) | [Link](https://github.com/UQ-Trust-Lab/LoDen) |
+
 ### Defense Papers 2022 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
