@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Scalable Membership Inference Attacks via Quantile Regression** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2307.03694) | |
 | 2023 | **Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2307.01701) | |
 | 2023 | **Towards More Realistic Membership Inference Attacks on Large Diffusion Models** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2306.12983) | |
 | 2023 | **Fortifying Federated Learning against Membership Inference Attacks via Client-level Input Perturbation** | White-box | Classification Models | Arxiv | [Link](https://yinzhicao.org/CIP/DSN-23-CIP.pdf) | | 
