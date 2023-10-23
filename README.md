@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study** | Black-box | Classification Models | ICCV | [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Practical_Membership_Inference_Attacks_Against_Large-Scale_Multi-Modal_Models_A_Pilot_ICCV_2023_paper.pdf) | [Link](https://github.com/ruoxi-jia-group/CLIP-MIA) | 
 | 2023 | **Privacy Side Channels in Machine Learning Systems** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/pdf/2309.05610.pdf) | |
 | 2023 | **White-box Membership Inference Attacks against Diffusion Models** | White-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2308.06405) | [Link](https://anonymous.4open.science/r/GSA/README.md) |
 | 2023 | **Scalable Membership Inference Attacks via Quantile Regression** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2307.03694) | |
