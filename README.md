@@ -43,7 +43,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2023 | **Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2307.01701) | |
 | 2023 | **Towards More Realistic Membership Inference Attacks on Large Diffusion Models** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2306.12983) | |
 | 2023 | **Fortifying Federated Learning against Membership Inference Attacks via Client-level Input Perturbation** | White-box | Classification Models | Arxiv | [Link](https://yinzhicao.org/CIP/DSN-23-CIP.pdf) | | 
-| 2023 | **Gaussian Membership Inference Privacy** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.07273) | |
+| 2023 | **Gaussian Membership Inference Privacy** | White-box | Classification Models | NeurIPS | [Link](https://arxiv.org/abs/2306.07273) | [Link](https://github.com/tleemann/gaussian_mip) |
 | 2023 | **TMI! Finetuned Models Leak Private Information from their Pretraining Data** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.01181) | |
 | 2023 | **SoK: Membership Inference is Harder Than Previously Thought** | Black-box | Classification Models | Arxiv | [Link](https://www.petsymposium.org/2023/files/papers/issue3/popets-2023-0082.pdf) | [Link](https://bitbucket.org/srecgrp/sok-membership-inference-public/src/master/) |
 | 2023 | **Re-aligning Shadow Models can Improve White-box Membership Inference Attacks** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.05093) | |
