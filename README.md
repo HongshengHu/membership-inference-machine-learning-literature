@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Link Membership Inference Attacks against Unsupervised Graph Representation Learning** | White-box/Black-box | Graph Embedding Models | ACSAC | [Link](https://dl.acm.org/doi/abs/10.1145/3627106.3627115) | [Link](https://gitfront.io/r/user-8658281/Mpx6p294FzeZ/LMIA/) |
 | 2023 | **Low-Cost High-Power Membership Inference by Boosting Relativity** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2312.03262) | [Link](https://github.com/privacytrustlab/ml) |
 | 2023 | **Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration** | Black-box | Language Models | Arxiv | [Link](https://arxiv.org/pdf/2311.06062.pdf) | | 
 | 2023 | **A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/pdf/2308.12143.pdf) | | 
