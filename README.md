@@ -208,6 +208,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Defense Papers 2023 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Mitigating Membership Inference Attacks via Weighted Smoothing** | Black-box | Classification Models | ACSAC | [Link](https://dl.acm.org/doi/abs/10.1145/3627106.3627189) | [Link](https://github.com/BennyTMT/weighted-smoothing) |
 | 2023 | **MIST: Defending Against Membership Inference Attacks Through Membership-Invariant Subspace Training** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2311.00919) | |
 | 2023 | **Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction** | Black-box | Classification Models | NDSS | [Link](https://arxiv.org/abs/2307.01610) | [Link](https://github.com/DependableSystemsLab/MIA_defense_HAMP) |
 | 2023 | **LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks** | White-box; Black-box | Classification Models | Asia CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3579856.3590334) | [Link](https://github.com/UQ-Trust-Lab/LoDen) |
