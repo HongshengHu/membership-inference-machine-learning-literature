@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Uncertainty, Calibration, and Membership Inference Attacks: An Information-Theoretic Perspective** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2402.10686) | |
 | 2024 | **Do Membership Inference Attacks Work on Large Language Models?** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2402.07841) | [Link](https://github.com/iamgroot42/mimir) |
 | 2024 | **Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2401.04929) | [Link](https://github.com/horanshi/LDC-MIA) |
 | 2024 | **Scalable Membership Inference Attacks via Quantile Regression** | Black-box | Classification Models | NeurIPS | [Link](https://assets.amazon.science/61/10/fe6e935b49bf89bb34dded96a17b/scalable-membership-inference-attacks-via-quantile-regression.pdf) | [Link](https://github.com/amazon-science/quantile-mia) |
