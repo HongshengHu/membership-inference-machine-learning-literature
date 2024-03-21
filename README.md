@@ -28,14 +28,24 @@ If you feel this repository is helpful, please cite the survey above.
 Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers.
 
 ## Quick Links
-**Attack papers sorted by year:** |[2023](#attack-papers-2023) |[2022](#attack-papers-2022) |[2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
+**Attack papers sorted by year:** | [2024](#attack-papers-2024) |[2023](#attack-papers-2023) |[2022](#attack-papers-2022) |[2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
-**Defense papers sorted by year:** | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
+**Defense papers sorted by year:** | [2023](#defense-papers-2023-back-to-top) |[2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Membership Inference Attack
+### Attack Papers 2024
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Uncertainty, Calibration, and Membership Inference Attacks: An Information-Theoretic Perspective** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2402.10686) | |
+| 2024 | **Do Membership Inference Attacks Work on Large Language Models?** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2402.07841) | [Link](https://github.com/iamgroot42/mimir) |
+| 2024 | **Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2401.04929) | [Link](https://github.com/horanshi/LDC-MIA) |
+| 2024 | **Scalable Membership Inference Attacks via Quantile Regression** | Black-box | Classification Models | NeurIPS | [Link](https://assets.amazon.science/61/10/fe6e935b49bf89bb34dded96a17b/scalable-membership-inference-attacks-via-quantile-regression.pdf) | [Link](https://github.com/amazon-science/quantile-mia) |
+
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Link Membership Inference Attacks against Unsupervised Graph Representation Learning** | White-box/Black-box | Graph Embedding Models | ACSAC | [Link](https://dl.acm.org/doi/abs/10.1145/3627106.3627115) | [Link](https://gitfront.io/r/user-8658281/Mpx6p294FzeZ/LMIA/) |
+| 2023 | **Low-Cost High-Power Membership Inference by Boosting Relativity** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2312.03262) | [Link](https://github.com/privacytrustlab/ml) |
 | 2023 | **Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration** | Black-box | Language Models | Arxiv | [Link](https://arxiv.org/pdf/2311.06062.pdf) | | 
 | 2023 | **A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/pdf/2308.12143.pdf) | | 
 | 2023 | **Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study** | Black-box | Classification Models | ICCV | [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Practical_Membership_Inference_Attacks_Against_Large-Scale_Multi-Modal_Models_A_Pilot_ICCV_2023_paper.pdf) | [Link](https://github.com/ruoxi-jia-group/CLIP-MIA) | 
@@ -206,6 +216,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Defense Papers 2023 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Mitigating Membership Inference Attacks via Weighted Smoothing** | Black-box | Classification Models | ACSAC | [Link](https://dl.acm.org/doi/abs/10.1145/3627106.3627189) | [Link](https://github.com/BennyTMT/weighted-smoothing) |
 | 2023 | **MIST: Defending Against Membership Inference Attacks Through Membership-Invariant Subspace Training** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2311.00919) | |
 | 2023 | **Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction** | Black-box | Classification Models | NDSS | [Link](https://arxiv.org/abs/2307.01610) | [Link](https://github.com/DependableSystemsLab/MIA_defense_HAMP) |
 | 2023 | **LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks** | White-box; Black-box | Classification Models | Asia CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3579856.3590334) | [Link](https://github.com/UQ-Trust-Lab/LoDen) |
