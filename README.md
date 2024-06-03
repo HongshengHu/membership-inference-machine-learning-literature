@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Understanding Practical Membership Privacy of Deep Learning** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2402.06674) | |
 | 2024 | **Evaluating Membership Inference Attacks and Defenses in Federated Learning** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2402.06289) | [Link](https://github.com/Liar-Mask/FedMIA) |
 | 2024 | **Uncertainty, Calibration, and Membership Inference Attacks: An Information-Theoretic Perspective** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2402.10686) | |
 | 2024 | **Do Membership Inference Attacks Work on Large Language Models?** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2402.07841) | [Link](https://github.com/iamgroot42/mimir) |
