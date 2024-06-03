@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Lost in the Averages: A New Specific Setup to Evaluate Membership Inference Attacks Against Machine Learning Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2405.15423) | |
 | 2024 | **Better Membership Inference Privacy Measurement through Discrepancy** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2405.15140) | |
 | 2024 | **OSLO: One-Shot Label-Only Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2405.16978) | |
 | 2024 | **Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack** | Black-box | Classification Models | S&P | [Link](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a120/1Ub23teQ7PG) | |
