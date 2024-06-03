@@ -60,7 +60,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2023 | **SoK: Membership Inference is Harder Than Previously Thought** | Black-box | Classification Models | Arxiv | [Link](https://www.petsymposium.org/2023/files/papers/issue3/popets-2023-0082.pdf) | [Link](https://bitbucket.org/srecgrp/sok-membership-inference-public/src/master/) |
 | 2023 | **Re-aligning Shadow Models can Improve White-box Membership Inference Attacks** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.05093) | |
 | 2023 | **Membership inference attack with relative decision boundary distance** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.04109) | |
-| 2023 | **Membership Inference Attacks against Language Models via Neighbourhood Comparison** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2305.18462) | |
+| 2023 | **Membership Inference Attacks against Language Models via Neighbourhood Comparison** | Black-box | Language Models | ACL | [Link](https://arxiv.org/abs/2305.18462) | [Link](https://github.com/mireshghallah/neighborhood-curvature-mia) & [Link](https://github.com/justusmattern27/neighbour-mia) |
 | 2023 | **How to Combine Membership-Inference Attacks on Multiple Updated Machine Learning Models** | Black-box | Classification Models | PoPETs | [Link](https://petsymposium.org/popets/2023/popets-2023-0078.pdf) | [Link](https://github.com/stanleykywu/model-updates) |
 | 2023 | **AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning** | White-box | Classification Models | WWW | [Link](https://dl.acm.org/doi/abs/10.1145/3543507.3583542) | [Link](https://github.com/PrivSecML/AgrEvader) |
 | 2023 | **Membership Inference Attacks Against Sequential Recommender Systems** | Black-box | Recommender System | WWW | [Link](https://dl.acm.org/doi/abs/10.1145/3543507.3583447) | |
@@ -121,7 +121,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2021
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------| 
-| 2021 | **Membership Inference Attacks From First Principles** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2112.03570) | |
+| 2021 | **Membership Inference Attacks From First Principles** | White-box; Black-box | Classification Models | S&P | [Link](https://arxiv.org/abs/2112.03570) | [Link](https://github.com/tensorflow/privacy/tree/master/research/mi_lira_2021) |
 | 2021 | **SHAPr: An Efficient and Versatile Membership Privacy Risk Metric for Machine Learning**| Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2112.02230) | |
 | 2021 | **Enhanced Membership Inference Attacks against Machine Learning Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2111.09679) | [Link](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2021 | **Do Not Trust Prediction Scores for Membership Inference Attacks** | Black-box | Classification Models | IJCAI | [Link](https://arxiv.org/abs/2111.09076) | [Link](https://github.com/ml-research/Do-Not-Trust-Prediction-Scores-for-Membership-Inference-Attacks) |
