@@ -1,5 +1,4 @@
-![image](https://github.com/HongshengHu/membership-inference-machine-learning-literature/assets/51736088/e133938a-b5dd-40dd-ab9b-429766e2c516)# Membership Inference Attacks and Defenses on Machine Learning Models Literature
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Membership Inference Attacks and Defenses on Machine Learning Models Literature
 
 A curated list of membership inference attacks and defenses papers on machine learning models.
 
