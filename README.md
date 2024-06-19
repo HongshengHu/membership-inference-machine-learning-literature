@@ -35,6 +35,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **LLM Dataset Inference Did you train on my dataset?** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2406.06443) | [Link](https://github.com/pratyushmaini/llm_dataset_inference/) |
 | 2024 | **Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought** | Black-box | Recommender System| IJCAI | [Link](https://arxiv.org/abs/2405.07018) | [Link](https://github.com/XiaoxiaoChi-code/shadow-free-MIAs) |
 | 2024 | **Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2405.20446) | |
 | 2024 | **A Comprehensive Analysis of Factors Impacting Membership Inference** | White-box; Black-box | Classification Models | CVPR workshop | [Link](https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/html/Dealcala_A_Comprehensive_Analysis_of_Factors_Impacting_Membership_Inference_CVPRW_2024_paper.html) | |
