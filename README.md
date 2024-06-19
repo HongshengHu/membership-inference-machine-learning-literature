@@ -1,4 +1,4 @@
-# Membership Inference Attacks and Defenses on Machine Learning Models Literature
+![image](https://github.com/HongshengHu/membership-inference-machine-learning-literature/assets/51736088/e133938a-b5dd-40dd-ab9b-429766e2c516)# Membership Inference Attacks and Defenses on Machine Learning Models Literature
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A curated list of membership inference attacks and defenses papers on machine learning models.
@@ -36,6 +36,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought** | Black-box | Recommender System| IJCAI | [Link](https://arxiv.org/abs/2405.07018) | [Link](https://github.com/XiaoxiaoChi-code/shadow-free-MIAs) |
 | 2024 | **Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2405.20446) | |
 | 2024 | **A Comprehensive Analysis of Factors Impacting Membership Inference** | White-box; Black-box | Classification Models | CVPR workshop | [Link](https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/html/Dealcala_A_Comprehensive_Analysis_of_Factors_Impacting_Membership_Inference_CVPRW_2024_paper.html) | |
 | 2024 | **Lost in the Averages: A New Specific Setup to Evaluate Membership Inference Attacks Against Machine Learning Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2405.15423) | |
