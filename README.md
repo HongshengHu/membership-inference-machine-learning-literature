@@ -35,6 +35,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Low-Cost High-Power Membership Inference Attacks** | Black-box | Classification Models | ICML | [Link](https://openreview.net/pdf?id=sT7UJh5CTc) | [Link](https://github.com/privacytrustlab/ml_privacy_meter/tree/master/research/2024_rmia) |
 | 2024 | **LLM Dataset Inference Did you train on my dataset?** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2406.06443) | [Link](https://github.com/pratyushmaini/llm_dataset_inference/) |
 | 2024 | **Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought** | Black-box | Recommender System| IJCAI | [Link](https://arxiv.org/abs/2405.07018) | [Link](https://github.com/XiaoxiaoChi-code/shadow-free-MIAs) |
 | 2024 | **Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2405.20446) | |
