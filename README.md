@@ -24,7 +24,7 @@ This repository serves as a complement to the survey below.
 If you feel this repository is helpful, please cite the survey above.
 
 ## How to Search?
-Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers.
+Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers. Because we are in the age of generative AI, we highlight the target model of ```Large Language Model (LLM)```.
 
 ## Quick Links
 **Attack papers sorted by year:** | [2024](#attack-papers-2024) |[2023](#attack-papers-2023) |[2022](#attack-papers-2022) |[2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
@@ -35,12 +35,12 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2024 | **Semantic Membership Inference Attack against Large Language Models** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2406.10218) | |
+| 2024 | **Semantic Membership Inference Attack against Large Language Models** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.10218) | |
 | 2024 | **GCL-Leak: Link Membership Inference Attacks against Graph Contrastive Learning** | White-box | Graph Contrastive Learning | PoPETs | [Link](https://petsymposium.org/popets/2024/popets-2024-0073.pdf) | [Link](https://gitfront.io/r/user-8658281/66TPGy4ACgzd/MIA-GCL/) |
 | 2024 | **Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2407.01306) | |
 | 2024 | **Do Parameters Reveal More than Loss for Membership Inference?** | White-box | Classification Models | ICML Workshop | [Link](https://arxiv.org/abs/2406.11544) | [Link](https://github.com/iamgroot42/iha_hild) |
 | 2024 | **Low-Cost High-Power Membership Inference Attacks** | Black-box | Classification Models | ICML | [Link](https://openreview.net/pdf?id=sT7UJh5CTc) | [Link](https://github.com/privacytrustlab/ml_privacy_meter/tree/master/research/2024_rmia) |
-| 2024 | **LLM Dataset Inference Did you train on my dataset?** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2406.06443) | [Link](https://github.com/pratyushmaini/llm_dataset_inference/) |
+| 2024 | **LLM Dataset Inference Did you train on my dataset?** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.06443) | [Link](https://github.com/pratyushmaini/llm_dataset_inference/) |
 | 2024 | **Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought** | Black-box | Recommender System| IJCAI | [Link](https://arxiv.org/abs/2405.07018) | [Link](https://github.com/XiaoxiaoChi-code/shadow-free-MIAs) |
 | 2024 | **Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2405.20446) | |
 | 2024 | **A Comprehensive Analysis of Factors Impacting Membership Inference** | White-box; Black-box | Classification Models | CVPR workshop | [Link](https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/html/Dealcala_A_Comprehensive_Analysis_of_Factors_Impacting_Membership_Inference_CVPRW_2024_paper.html) | |
@@ -52,7 +52,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2024 | **Understanding Practical Membership Privacy of Deep Learning** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2402.06674) | |
 | 2024 | **Evaluating Membership Inference Attacks and Defenses in Federated Learning** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2402.06289) | [Link](https://github.com/Liar-Mask/FedMIA) |
 | 2024 | **Uncertainty, Calibration, and Membership Inference Attacks: An Information-Theoretic Perspective** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2402.10686) | |
-| 2024 | **Do Membership Inference Attacks Work on Large Language Models?** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2402.07841) | [Link](https://github.com/iamgroot42/mimir) |
+| 2024 | **Do Membership Inference Attacks Work on Large Language Models?** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2402.07841) | [Link](https://github.com/iamgroot42/mimir) |
 | 2024 | **Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2401.04929) | [Link](https://github.com/horanshi/LDC-MIA) |
 | 2024 | **Scalable Membership Inference Attacks via Quantile Regression** | Black-box | Classification Models | NeurIPS | [Link](https://assets.amazon.science/61/10/fe6e935b49bf89bb34dded96a17b/scalable-membership-inference-attacks-via-quantile-regression.pdf) | [Link](https://github.com/amazon-science/quantile-mia) |
 
