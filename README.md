@@ -35,6 +35,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Blind Baselines Beat Membership Inference Attacks for Foundation Models** | No Access | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.16201) | |
 | 2024 | **Generating Is Believing: Membership Inference Attacks against Retrieval-Augmented Generation** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.19234) | |
 | 2024 | **Semantic Membership Inference Attack against Large Language Models** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.10218) | |
 | 2024 | **GCL-Leak: Link Membership Inference Attacks against Graph Contrastive Learning** | White-box | Graph Contrastive Learning | PoPETs | [Link](https://petsymposium.org/popets/2024/popets-2024-0073.pdf) | [Link](https://gitfront.io/r/user-8658281/66TPGy4ACgzd/MIA-GCL/) |
