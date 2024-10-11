@@ -35,6 +35,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Semantic Membership Inference Attack against Large Language Models** | Black-box | LLM | Arxiv | [Link](https://arxiv.org/abs/2406.10218) | |
 | 2024 | **GCL-Leak: Link Membership Inference Attacks against Graph Contrastive Learning** | White-box | Graph Contrastive Learning | PoPETs | [Link](https://petsymposium.org/popets/2024/popets-2024-0073.pdf) | [Link](https://gitfront.io/r/user-8658281/66TPGy4ACgzd/MIA-GCL/) |
 | 2024 | **Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2407.01306) | |
 | 2024 | **Do Parameters Reveal More than Loss for Membership Inference?** | White-box | Classification Models | ICML Workshop | [Link](https://arxiv.org/abs/2406.11544) | [Link](https://github.com/iamgroot42/iha_hild) |
