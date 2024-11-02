@@ -35,6 +35,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **SoK: Membership Inference Attacks on LLMs are Rushing Nowhere (and How to Fix It)** | White-box; Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.17975) | [Link](https://github.com/computationalprivacy/mia_llms_benchmark) |
 | 2024 | **ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.15968) | |
 | 2024 | **Blind Baselines Beat Membership Inference Attacks for Foundation Models** | No Access | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.16201) | |
 | 2024 | **Generating Is Believing: Membership Inference Attacks against Retrieval-Augmented Generation** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.19234) | |
