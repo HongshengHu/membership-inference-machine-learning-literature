@@ -29,12 +29,13 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ## Quick Links
 **Attack papers sorted by year:** | [2024](#attack-papers-2024) |[2023](#attack-papers-2023) |[2022](#attack-papers-2022) |[2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
-**Defense papers sorted by year:** | [2023](#defense-papers-2023-back-to-top) |[2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
+**Defense papers sorted by year:** | [2024](#defense-papers-2024-back-to-top) | [2023](#defense-papers-2023-back-to-top) |[2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Membership Inference Attack
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2411.00154) | |
 | 2024 | **Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution** | Black-box | Recommender System | CIKM | [Link](https://dl.acm.org/doi/abs/10.1145/3627673.3679804) | [Link](https://github.com/dzhong2/MINER) |
 | 2024 | **Noisy Neighbors: Efficient membership inference attacks against LLMs** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.16565) | |
 | 2024 | **SoK: Membership Inference Attacks on LLMs are Rushing Nowhere (and How to Fix It)** | White-box; Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.17975) | [Link](https://github.com/computationalprivacy/mia_llms_benchmark) |
