@@ -35,7 +35,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2024 | **Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2411.00154) | |
+| 2024 | **Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2411.00154) | [Link](https://github.com/parameterlab/mia-scaling) |
 | 2024 | **Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution** | Black-box | Recommender System | CIKM | [Link](https://dl.acm.org/doi/abs/10.1145/3627673.3679804) | [Link](https://github.com/dzhong2/MINER) |
 | 2024 | **Noisy Neighbors: Efficient membership inference attacks against LLMs** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.16565) | |
 | 2024 | **SoK: Membership Inference Attacks on LLMs are Rushing Nowhere (and How to Fix It)** | White-box; Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.17975) | [Link](https://github.com/computationalprivacy/mia_llms_benchmark) |
