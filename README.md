@@ -233,6 +233,11 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 
 ## Membership Inference Defense
+### Defense Papers 2024 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Dual-Model Defense: Safeguarding Diffusion Models from Membership Inference Attacks through Disjoint Data Splitting** | Black-box | Generative Models | Arxiv | [Link]([https://dl.acm.org/doi/abs/10.1145/3627106.3627189](https://arxiv.org/abs/2410.16657)) |  |
+
 ### Defense Papers 2023 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
