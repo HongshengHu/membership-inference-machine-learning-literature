@@ -35,6 +35,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration** | Black-box | :sparkles: ```LLM``` :sparkles: | NeurIPS | [Link](https://openreview.net/forum?id=PAWQvrForJ) | [Link](https://github.com/tsinghua-fib-lab/NeurIPS2024_SPV-MIA) | 
 | 2024 | **Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2411.00154) | [Link](https://github.com/parameterlab/mia-scaling) |
 | 2024 | **Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution** | Black-box | Recommender System | CIKM | [Link](https://dl.acm.org/doi/abs/10.1145/3627673.3679804) | [Link](https://github.com/dzhong2/MINER) |
 | 2024 | **Noisy Neighbors: Efficient membership inference attacks against LLMs** | Black-box | :sparkles: ```LLM``` :sparkles: | Arxiv | [Link](https://arxiv.org/abs/2406.16565) | |
@@ -68,7 +69,6 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **Link Membership Inference Attacks against Unsupervised Graph Representation Learning** | White-box/Black-box | Graph Embedding Models | ACSAC | [Link](https://dl.acm.org/doi/abs/10.1145/3627106.3627115) | [Link](https://gitfront.io/r/user-8658281/Mpx6p294FzeZ/LMIA/) |
 | 2023 | **Low-Cost High-Power Membership Inference by Boosting Relativity** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2312.03262) | [Link](https://github.com/privacytrustlab/ml) |
-| 2023 | **Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration** | Black-box | Language Models | Arxiv | [Link](https://arxiv.org/pdf/2311.06062.pdf) | | 
 | 2023 | **A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/pdf/2308.12143.pdf) | | 
 | 2023 | **Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study** | Black-box | Classification Models | ICCV | [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Ko_Practical_Membership_Inference_Attacks_Against_Large-Scale_Multi-Modal_Models_A_Pilot_ICCV_2023_paper.pdf) | [Link](https://github.com/ruoxi-jia-group/CLIP-MIA) | 
 | 2023 | **Privacy Side Channels in Machine Learning Systems** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/pdf/2309.05610.pdf) | |
