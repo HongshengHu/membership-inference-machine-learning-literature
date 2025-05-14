@@ -32,6 +32,12 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 **Defense papers sorted by year:** | [2025](#defense-papers-2025-back-to-top) | [2024](#defense-papers-2024-back-to-top) | [2023](#defense-papers-2023-back-to-top) |[2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Membership Inference Attack
+### Attack Papers 2025
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2025 | **MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector** | Black-box | :sparkles: ```LLM``` :sparkles: | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/34939) | [Link](https://github.com/tsinghua-fib-lab/AAAI2025_MIA-Tuner) | 
+| 2025 | **Min-K%++: Improved Baseline for Pre-Training Data Detection from Large Language Models** | White-box | :sparkles: ```LLM``` :sparkles: | ICLR | [Link](https://openreview.net/forum?id=ZGkfoufDaU) | [Link](https://github.com/zjysteven/mink-plus-plus) | 
+
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
