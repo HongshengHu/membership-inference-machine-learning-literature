@@ -37,6 +37,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2025 | **MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector** | Black-box | :sparkles: ```LLM``` :sparkles: | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/34939) | [Link](https://github.com/tsinghua-fib-lab/AAAI2025_MIA-Tuner) | 
 | 2025 | **Min-K%++: Improved Baseline for Pre-Training Data Detection from Large Language Models** | White-box | :sparkles: ```LLM``` :sparkles: | ICLR | [Link](https://openreview.net/forum?id=ZGkfoufDaU) | [Link](https://github.com/zjysteven/mink-plus-plus) | 
+| 2025 | **RecPS: Privacy Risk Scoring for Recommender Systems** | White-box | Recommender System | RecSys | [Link](https://dl.acm.org/doi/10.1145/3705328.3748052) | [Link](https://github.com/RhincodonE/RsLiRA) |
 
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
