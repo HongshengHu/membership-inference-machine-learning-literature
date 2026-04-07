@@ -27,11 +27,16 @@ If you feel this repository is helpful, please cite the survey above.
 Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers. Because we are in the age of generative AI, we highlight the target model of ```Large Language Model (LLM)```.
 
 ## Quick Links
-**Attack papers sorted by year:** | [2024](#attack-papers-2024) |[2023](#attack-papers-2023) |[2022](#attack-papers-2022) |[2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
+**Attack papers sorted by year:** | [2026](#attack-papers-2026) | [2025](#attack-papers-2025) | [2024](#attack-papers-2024) |[2023](#attack-papers-2023) |[2022](#attack-papers-2022) |[2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
 
 **Defense papers sorted by year:** | [2025](#defense-papers-2025-back-to-top) | [2024](#defense-papers-2024-back-to-top) | [2023](#defense-papers-2023-back-to-top) |[2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
 
 ## Membership Inference Attack
+### Attack Papers 2026
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2026 | **Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents** | Black-/White-box | LLM/VLM | ArXiv | [Link](https://arxiv.org/abs/2603.19375) | [Link](https://github.com/toan-vt/automia) | 
+
 ### Attack Papers 2025
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
@@ -245,7 +250,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Defense Papers 2025 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2024 | **Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training** | Black-box | :sparkles:```LLM```:sparkles: | Arxiv | [Link](https://arxiv.org/abs/2502.19726) |  |
+| 2025 | **Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training** | Black-box | :sparkles:```LLM```:sparkles: | ACL | [Link](https://arxiv.org/abs/2502.19726) | [Link](https://github.com/toan-vt/duolearn) |
 
 ### Defense Papers 2024 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
