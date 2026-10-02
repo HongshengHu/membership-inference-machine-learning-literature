@@ -40,6 +40,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2025
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2025 | **GateBleed: Exploiting On-Core Accelerator Power Gating for High Performance and Stealthy Attacks on AI** | Timing side channel (shared Intel AMX; no model outputs) | Transformer and early-exit CNN classifiers | MICRO | [Link](https://doi.org/10.1145/3725843.3756097) | [Link](https://github.com/jkalya/gatebleed) |
 | 2025 | **MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector** | Black-box | :sparkles: ```LLM``` :sparkles: | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/34939) | [Link](https://github.com/tsinghua-fib-lab/AAAI2025_MIA-Tuner) | 
 | 2025 | **Min-K%++: Improved Baseline for Pre-Training Data Detection from Large Language Models** | White-box | :sparkles: ```LLM``` :sparkles: | ICLR | [Link](https://openreview.net/forum?id=ZGkfoufDaU) | [Link](https://github.com/zjysteven/mink-plus-plus) | 
 | 2025 | **RecPS: Privacy Risk Scoring for Recommender Systems** | White-box | Recommender System | RecSys | [Link](https://dl.acm.org/doi/10.1145/3705328.3748052) | [Link](https://github.com/RhincodonE/RsLiRA) |
